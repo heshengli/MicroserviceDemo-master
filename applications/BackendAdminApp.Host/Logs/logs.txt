@@ -1,0 +1,192 @@
+2020-03-29 22:50:12.847 +08:00 [INF] Starting BackendAdminApp.Host.
+2020-03-29 22:50:15.791 +08:00 [INF] Loaded ABP modules:
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Http.Client.AbpHttpClientModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.Client.AbpAspNetCoreMvcClientModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.AspNetCore.Authentication.OAuth.AbpAspNetCoreAuthenticationOAuthModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.IdentityModel.AbpIdentityModelModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Http.Client.IdentityModel.AbpHttpClientIdentityModelModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Http.Client.IdentityModel.Web.AbpHttpClientIdentityModelWebModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-03-29 22:50:15.793 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiClientModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.PermissionManagement.HttpApi.AbpPermissionManagementHttpApiModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.PermissionManagement.Web.AbpPermissionManagementWebModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.Identity.Web.AbpIdentityWebModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiClientModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementDomainSharedModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementApplicationContractsModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementHttpApiModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementWebModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.TenantManagement.Web.AbpTenantManagementWebModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Blogging.BloggingDomainSharedModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Blogging.BloggingApplicationContractsModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementHttpApiClientModule
+2020-03-29 22:50:15.794 +08:00 [INF] - ProductManagement.ProductManagementDomainSharedModule
+2020-03-29 22:50:15.794 +08:00 [INF] - ProductManagement.ProductManagementApplicationContractsModule
+2020-03-29 22:50:15.794 +08:00 [INF] - ProductManagement.ProductManagementHttpApiClientModule
+2020-03-29 22:50:15.794 +08:00 [INF] - ProductManagement.ProductManagementHttpApiModule
+2020-03-29 22:50:15.794 +08:00 [INF] - ProductManagement.ProductManagementWebModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+2020-03-29 22:50:15.794 +08:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementHttpApiClientModule
+2020-03-29 22:50:15.794 +08:00 [INF] - BackendAdminApp.Host.BackendAdminAppHostModule
+2020-03-29 22:50:16.806 +08:00 [INF] Initialized all ABP modules.
+2020-03-29 22:50:16.833 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-03-29 22:50:16.833 +08:00 [INF] Hosting environment: Development
+2020-03-29 22:50:16.834 +08:00 [INF] Content root path: F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\applications\BackendAdminApp.Host
+2020-03-29 22:50:16.855 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:10001/  
+2020-03-29 22:50:17.210 +08:00 [INF] Start processing HTTP request GET "http://192.168.0.123:10001/api/abp/api-definition"
+2020-03-29 22:50:17.212 +08:00 [INF] Sending HTTP request GET "http://192.168.0.123:10001/api/abp/api-definition"
+2020-03-29 22:51:57.249 +08:00 [ERR] Connection ID "18374686511347007534", Request ID "8000002f-0007-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+ ---> System.Net.Sockets.SocketException (995): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Volo.Abp.Http.Client.DynamicProxying.ApiDescriptionFinder.GetApiDescriptionFromServerAsync(String baseUrl)
+   at Volo.Abp.Http.Client.DynamicProxying.ApiDescriptionCache.GetAsync(String baseUrl, Func`1 factory)
+   at Volo.Abp.Http.Client.DynamicProxying.ApiDescriptionFinder.GetApiDescriptionAsync(String baseUrl)
+   at Volo.Abp.Http.Client.DynamicProxying.ApiDescriptionFinder.FindActionAsync(String baseUrl, Type serviceType, MethodInfo method)
+   at Volo.Abp.Http.Client.DynamicProxying.DynamicHttpProxyInterceptor`1.MakeRequestAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Http.Client.DynamicProxying.DynamicHttpProxyInterceptor`1.MakeRequestAndGetResultAsync[T](IAbpMethodInvocation invocation)
+   at Volo.Abp.Http.Client.DynamicProxying.DynamicHttpProxyInterceptor`1.GetResultAsync(Task task, Type resultType)
+   at Volo.Abp.Http.Client.DynamicProxying.DynamicHttpProxyInterceptor`1.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Validation.ValidationInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Volo.Abp.AspNetCore.Mvc.Client.CachedApplicationConfigurationClient.<GetAsync>b__13_0()
+   at Volo.Abp.Caching.DistributedCache`2.GetOrAddAsync(TCacheKey key, Func`1 factory, Func`1 optionsFactory, Nullable`1 hideErrors, CancellationToken token)
+   at Volo.Abp.AspNetCore.Mvc.Client.CachedApplicationConfigurationClient.GetAsync()
+   at Volo.Abp.AspNetCore.Mvc.Client.RemoteLanguageProvider.GetLanguagesAsync()
+   at Microsoft.AspNetCore.RequestLocalization.DefaultAbpRequestLocalizationOptionsProvider.GetLocalizationOptionsAsync()
+   at Microsoft.AspNetCore.RequestLocalization.AbpRequestLocalizationMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<<UseMiddlewareInterface>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Volo.Abp.AspNetCore.MultiTenancy.MultiTenancyMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<<UseMiddlewareInterface>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Volo.Abp.AspNetCore.Tracing.AbpCorrelationIdMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<<UseMiddlewareInterface>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2020-03-29 22:51:57.367 +08:00 [INF] Request finished in 100514.8841ms 500 
+2020-03-29 23:06:50.119 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:10001/  
+2020-03-29 23:06:50.149 +08:00 [INF] Start processing HTTP request GET "http://192.168.0.123:10001/api/abp/api-definition"
+2020-03-29 23:06:50.149 +08:00 [INF] Sending HTTP request GET "http://192.168.0.123:10001/api/abp/api-definition"
+2020-03-29 23:06:53.946 +08:00 [ERR] Connection ID "17798225754748616749", Request ID "8000002e-0006-f700-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+ ---> System.Net.Sockets.SocketException (995): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Volo.Abp.Http.Client.DynamicProxying.ApiDescriptionFinder.GetApiDescriptionFromServerAsync(String baseUrl)
+   at Volo.Abp.Http.Client.DynamicProxying.ApiDescriptionCache.GetAsync(String baseUrl, Func`1 factory)
+   at Volo.Abp.Http.Client.DynamicProxying.ApiDescriptionFinder.GetApiDescriptionAsync(String baseUrl)
+   at Volo.Abp.Http.Client.DynamicProxying.ApiDescriptionFinder.FindActionAsync(String baseUrl, Type serviceType, MethodInfo method)
+   at Volo.Abp.Http.Client.DynamicProxying.DynamicHttpProxyInterceptor`1.MakeRequestAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Http.Client.DynamicProxying.DynamicHttpProxyInterceptor`1.MakeRequestAndGetResultAsync[T](IAbpMethodInvocation invocation)
+   at Volo.Abp.Http.Client.DynamicProxying.DynamicHttpProxyInterceptor`1.GetResultAsync(Task task, Type resultType)
+   at Volo.Abp.Http.Client.DynamicProxying.DynamicHttpProxyInterceptor`1.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Validation.ValidationInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Volo.Abp.AspNetCore.Mvc.Client.CachedApplicationConfigurationClient.<GetAsync>b__13_0()
+   at Volo.Abp.Caching.DistributedCache`2.GetOrAddAsync(TCacheKey key, Func`1 factory, Func`1 optionsFactory, Nullable`1 hideErrors, CancellationToken token)
+   at Volo.Abp.AspNetCore.Mvc.Client.CachedApplicationConfigurationClient.GetAsync()
+   at Volo.Abp.AspNetCore.Mvc.Client.RemoteLanguageProvider.GetLanguagesAsync()
+   at Microsoft.AspNetCore.RequestLocalization.DefaultAbpRequestLocalizationOptionsProvider.GetLocalizationOptionsAsync()
+   at Microsoft.AspNetCore.RequestLocalization.AbpRequestLocalizationMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<<UseMiddlewareInterface>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Volo.Abp.AspNetCore.MultiTenancy.MultiTenancyMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<<UseMiddlewareInterface>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Volo.Abp.AspNetCore.Tracing.AbpCorrelationIdMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<<UseMiddlewareInterface>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2020-03-29 23:06:53.949 +08:00 [INF] Request finished in 3831.0538ms 0 

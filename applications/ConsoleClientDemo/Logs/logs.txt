@@ -1,0 +1,52 @@
+2020-03-29 23:05:35.720 +08:00 [INF] Starting ConsoleClientDemo...
+2020-03-29 23:05:36.680 +08:00 [INF] Loaded ABP modules:
+2020-03-29 23:05:36.681 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-03-29 23:05:36.681 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Http.Client.AbpHttpClientModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.IdentityModel.AbpIdentityModelModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Http.Client.IdentityModel.AbpHttpClientIdentityModelModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiClientModule
+2020-03-29 23:05:36.682 +08:00 [INF] - ProductManagement.ProductManagementDomainSharedModule
+2020-03-29 23:05:36.682 +08:00 [INF] - ProductManagement.ProductManagementApplicationContractsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - ProductManagement.ProductManagementHttpApiClientModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+2020-03-29 23:05:36.682 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiClientModule
+2020-03-29 23:05:36.682 +08:00 [INF] - ConsoleClientDemo.ConsoleClientDemoModule
+2020-03-29 23:05:36.683 +08:00 [INF] Initialized all ABP modules.
+2020-03-29 23:05:36.829 +08:00 [INF] Start processing HTTP request GET "http://localhost:64999/.well-known/openid-configuration"
+2020-03-29 23:05:36.835 +08:00 [INF] Sending HTTP request GET "http://localhost:64999/.well-known/openid-configuration"
+2020-03-29 23:05:41.034 +08:00 [INF] Start processing HTTP request GET "http://localhost:65129/api/abp/api-definition"
+2020-03-29 23:05:41.034 +08:00 [INF] Sending HTTP request GET "http://localhost:65129/api/abp/api-definition"
+2020-03-29 23:05:45.060 +08:00 [INF] Start processing HTTP request GET "http://localhost:65129/api/abp/api-definition"
+2020-03-29 23:05:45.060 +08:00 [INF] Sending HTTP request GET "http://localhost:65129/api/abp/api-definition"

@@ -1,0 +1,73 @@
+2020-03-29 23:08:43.405 +08:00 [INF] Starting IdentityService.Host.
+2020-03-29 23:08:44.937 +08:00 [INF] Loaded ABP modules:
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.RabbitMQ.AbpRabbitMqModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.EventBus.RabbitMq.AbpEventBusRabbitMqModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-03-29 23:08:44.938 +08:00 [INF] - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+2020-03-29 23:08:44.939 +08:00 [INF] - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+2020-03-29 23:08:44.939 +08:00 [INF] - IdentityService.Host.IdentityServiceHostModule
+2020-03-29 23:08:45.819 +08:00 [INF] Initialized all ABP modules.
+2020-03-29 23:08:45.839 +08:00 [INF] Now listening on: http://localhost:63568
+2020-03-29 23:08:45.840 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-03-29 23:08:45.840 +08:00 [INF] Hosting environment: Development
+2020-03-29 23:08:45.840 +08:00 [INF] Content root path: F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\microservices\IdentityService.Host
+2020-03-29 23:09:31.762 +08:00 [DBG] Disposed channel pool with no channels in the pool.
+2020-03-29 23:09:31.769 +08:00 [INF] Application is shutting down...

@@ -1,0 +1,339 @@
+2020-03-29 20:12:53.334 +08:00 [INF] Starting AuthServer.Host.
+2020-03-29 20:12:59.150 +08:00 [INF] Loaded ABP modules:
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.RabbitMQ.AbpRabbitMqModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.EventBus.RabbitMq.AbpEventBusRabbitMqModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-03-29 20:12:59.151 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Account.AbpAccountApplicationContractsModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Account.AbpAccountApplicationModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.IdentityServer.AbpIdentityServerDomainSharedModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.IdentityServer.AbpIdentityServerDomainModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.IdentityServer.EntityFrameworkCore.AbpIdentityServerEntityFrameworkCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Account.AbpAccountHttpApiModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.Identity.AspNetCore.AbpIdentityAspNetCoreModule
+2020-03-29 20:12:59.152 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.Account.Web.AbpAccountWebModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.Account.Web.AbpAccountWebIdentityServerModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+2020-03-29 20:12:59.153 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+2020-03-29 20:12:59.153 +08:00 [INF] - AuthServer.Host.AuthServerHostModule
+2020-03-29 20:12:59.536 +08:00 [DBG] Started background worker: Volo.Abp.IdentityServer.Tokens.TokenCleanupBackgroundWorker
+2020-03-29 20:12:59.579 +08:00 [INF] Starting IdentityServer4 version 3.0.2.0
+2020-03-29 20:13:00.079 +08:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2020-03-29 20:13:00.079 +08:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2020-03-29 20:13:00.079 +08:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2020-03-29 20:13:00.079 +08:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2020-03-29 20:13:00.079 +08:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2020-03-29 20:13:00.079 +08:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2020-03-29 20:13:01.925 +08:00 [ERR] An error occurred using the connection to database 'MsDemo_Identity' on server '.'.
+2020-03-29 23:07:48.309 +08:00 [INF] Starting AuthServer.Host.
+2020-03-29 23:07:51.354 +08:00 [INF] Loaded ABP modules:
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.RabbitMQ.AbpRabbitMqModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.EventBus.RabbitMq.AbpEventBusRabbitMqModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-03-29 23:07:51.355 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Account.AbpAccountApplicationContractsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Account.AbpAccountApplicationModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Account.AbpAccountHttpApiModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Identity.AspNetCore.AbpIdentityAspNetCoreModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Account.Web.AbpAccountWebModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.IdentityServer.AbpIdentityServerDomainSharedModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.IdentityServer.AbpIdentityServerDomainModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.IdentityServer.EntityFrameworkCore.AbpIdentityServerEntityFrameworkCoreModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.Account.Web.AbpAccountWebIdentityServerModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+2020-03-29 23:07:51.356 +08:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+2020-03-29 23:07:51.356 +08:00 [INF] - AuthServer.Host.AuthServerHostModule
+2020-03-29 23:07:51.688 +08:00 [DBG] Started background worker: Volo.Abp.IdentityServer.Tokens.TokenCleanupBackgroundWorker
+2020-03-29 23:07:51.701 +08:00 [INF] Starting IdentityServer4 version 3.0.2.0
+2020-03-29 23:07:51.864 +08:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2020-03-29 23:07:51.864 +08:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2020-03-29 23:07:51.864 +08:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2020-03-29 23:07:51.864 +08:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2020-03-29 23:07:51.864 +08:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2020-03-29 23:07:51.864 +08:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2020-03-29 23:07:53.818 +08:00 [ERR] An error occurred using the connection to database 'MsDemo_Identity' on server '.'.
+2020-03-29 23:07:53.822 +08:00 [FTL] Application startup exception
+Microsoft.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.BeginTransaction()
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.CreateDbContextWithTransaction(IUnitOfWork unitOfWork)
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.CreateDbContext(IUnitOfWork unitOfWork)
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.CreateDbContext(IUnitOfWork unitOfWork, String connectionStringName, String connectionString)
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.<>c__DisplayClass3_0.<GetDbContext>b__0()
+   at System.Collections.Generic.AbpDictionaryExtensions.<>c__DisplayClass6_0`2.<GetOrAdd>b__0(TKey k)
+   at System.Collections.Generic.AbpDictionaryExtensions.GetOrAdd[TKey,TValue](IDictionary`2 dictionary, TKey key, Func`2 factory)
+   at System.Collections.Generic.AbpDictionaryExtensions.GetOrAdd[TKey,TValue](IDictionary`2 dictionary, TKey key, Func`1 factory)
+   at Volo.Abp.Uow.UnitOfWork.GetOrAddDatabaseApi(String key, Func`1 factory)
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.GetDbContext()
+   at Volo.Abp.Domain.Repositories.EntityFrameworkCore.EfCoreRepository`2.get_DbContext()
+   at Volo.Abp.Domain.Repositories.EntityFrameworkCore.EfCoreRepository`2.get_DbSet()
+   at Volo.Abp.PermissionManagement.EntityFrameworkCore.EfCorePermissionGrantRepository.FindAsync(String name, String providerName, String providerKey, CancellationToken cancellationToken)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Volo.Abp.PermissionManagement.PermissionDataSeeder.SeedAsync(String providerName, String providerKey, IEnumerable`1 grantedPermissions, Nullable`1 tenantId)
+   at Volo.Abp.Data.DataSeeder.SeedAsync(DataSeedContext context)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous(IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapter.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync(IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at AuthServer.Host.AuthServerHostModule.<>c__DisplayClass1_0.<<OnApplicationInitialization>b__0>d.MoveNext() in F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\applications\AuthServer.Host\AuthServerHostModule.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.<>c__DisplayClass15_0.<Run>b__0(Task t)
+   at System.Threading.Tasks.ContinuationTaskFromTask.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.Run(Func`1 action)
+   at Volo.Abp.Threading.AsyncHelper.RunSync(Func`1 action)
+   at AuthServer.Host.AuthServerHostModule.OnApplicationInitialization(ApplicationInitializationContext context) in F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\applications\AuthServer.Host\AuthServerHostModule.cs:line 109
+   at Volo.Abp.Modularity.OnApplicationInitializationModuleLifecycleContributor.Initialize(ApplicationInitializationContext context, IAbpModule module)
+   at Volo.Abp.Modularity.ModuleManager.InitializeModules(ApplicationInitializationContext context)
+   at Volo.Abp.AbpApplicationBase.InitializeModules()
+   at Volo.Abp.AbpApplicationWithExternalServiceProvider.Initialize(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Builder.AbpApplicationBuilderExtensions.InitializeApplication(IApplicationBuilder app)
+   at AuthServer.Host.Startup.Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory) in F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\applications\AuthServer.Host\Startup.cs:line 19
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass13_0.<UseStartup>b__2(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+ClientConnectionId:223537be-93a1-415c-a340-a7a428375d6a
+Error Number:18456,State:1,Class:14
+2020-03-29 23:07:54.106 +08:00 [FTL] AuthServer.Host terminated unexpectedly!
+Microsoft.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.BeginTransaction()
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.CreateDbContextWithTransaction(IUnitOfWork unitOfWork)
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.CreateDbContext(IUnitOfWork unitOfWork)
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.CreateDbContext(IUnitOfWork unitOfWork, String connectionStringName, String connectionString)
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.<>c__DisplayClass3_0.<GetDbContext>b__0()
+   at System.Collections.Generic.AbpDictionaryExtensions.<>c__DisplayClass6_0`2.<GetOrAdd>b__0(TKey k)
+   at System.Collections.Generic.AbpDictionaryExtensions.GetOrAdd[TKey,TValue](IDictionary`2 dictionary, TKey key, Func`2 factory)
+   at System.Collections.Generic.AbpDictionaryExtensions.GetOrAdd[TKey,TValue](IDictionary`2 dictionary, TKey key, Func`1 factory)
+   at Volo.Abp.Uow.UnitOfWork.GetOrAddDatabaseApi(String key, Func`1 factory)
+   at Volo.Abp.Uow.EntityFrameworkCore.UnitOfWorkDbContextProvider`1.GetDbContext()
+   at Volo.Abp.Domain.Repositories.EntityFrameworkCore.EfCoreRepository`2.get_DbContext()
+   at Volo.Abp.Domain.Repositories.EntityFrameworkCore.EfCoreRepository`2.get_DbSet()
+   at Volo.Abp.PermissionManagement.EntityFrameworkCore.EfCorePermissionGrantRepository.FindAsync(String name, String providerName, String providerKey, CancellationToken cancellationToken)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Volo.Abp.PermissionManagement.PermissionDataSeeder.SeedAsync(String providerName, String providerKey, IEnumerable`1 grantedPermissions, Nullable`1 tenantId)
+   at Volo.Abp.Data.DataSeeder.SeedAsync(DataSeedContext context)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous(IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapter.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync(IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at AuthServer.Host.AuthServerHostModule.<>c__DisplayClass1_0.<<OnApplicationInitialization>b__0>d.MoveNext() in F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\applications\AuthServer.Host\AuthServerHostModule.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.<>c__DisplayClass15_0.<Run>b__0(Task t)
+   at System.Threading.Tasks.ContinuationTaskFromTask.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.Run(Func`1 action)
+   at Volo.Abp.Threading.AsyncHelper.RunSync(Func`1 action)
+   at AuthServer.Host.AuthServerHostModule.OnApplicationInitialization(ApplicationInitializationContext context) in F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\applications\AuthServer.Host\AuthServerHostModule.cs:line 109
+   at Volo.Abp.Modularity.OnApplicationInitializationModuleLifecycleContributor.Initialize(ApplicationInitializationContext context, IAbpModule module)
+   at Volo.Abp.Modularity.ModuleManager.InitializeModules(ApplicationInitializationContext context)
+   at Volo.Abp.AbpApplicationBase.InitializeModules()
+   at Volo.Abp.AbpApplicationWithExternalServiceProvider.Initialize(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Builder.AbpApplicationBuilderExtensions.InitializeApplication(IApplicationBuilder app)
+   at AuthServer.Host.Startup.Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory) in F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\applications\AuthServer.Host\Startup.cs:line 19
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass13_0.<UseStartup>b__2(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at AuthServer.Host.Program.Main(String[] args) in F:\MicroService\abp-vnext\abp-dev\samples\MicroserviceDemo\applications\AuthServer.Host\Program.cs:line 43
+ClientConnectionId:223537be-93a1-415c-a340-a7a428375d6a
+Error Number:18456,State:1,Class:14
