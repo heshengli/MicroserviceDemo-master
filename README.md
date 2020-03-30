@@ -1,5 +1,3 @@
-# Microservice Demo Solution
-
 # Abp vNext 
 # MicroserviceDemo
 
