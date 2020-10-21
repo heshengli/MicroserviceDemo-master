@@ -5,5 +5,5 @@
 
 This sample aims to demonstrate a simple yet complete microservice solution. See the [documentation](https://abp.io/documents/abp/latest/Samples/Microservice-Demo).
 
-<https://github.com/heshengli/MicroserviceDemo>
+基于最新abp vnext 3.2.1 <https://github.com/heshengli/MicroserviceDemo>
 
