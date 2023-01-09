@@ -1440,9 +1440,9 @@ lodash@^4.17.15:
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 luxon@^1.17.3:
-  version "1.19.2"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.19.2.tgz#f041a9031e7dff6fdbff46e46c73b3fdf4ab2764"
-  integrity sha512-4Dn6oriheX04QQd7mMhuScnyQPdD7h11aCJgSTq9FqkOWdxX7xRUXoX/OXu4rkw98NmcVz3QSLpLbDnT6lVsMw==
+  version "1.28.1"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.28.1.tgz#528cdf3624a54506d710290a2341aa8e6e6c61b0"
+  integrity sha512-gYHAa180mKrNIUJCbwpmD0aTu9kV0dREDrwNnuyFAsO1Wt0EVYSZelPnJlbj9HplzXX/YWXHFTL45kvZ53M0pw==
 
 make-iterator@^1.0.0:
   version "1.0.1"
